@@ -13,7 +13,7 @@ L'objectif du projet sera de créer une API Rest avec Spring Boot permettant de 
 ## Réalisation
 
 * Commencer par créer un diagramme d'entité
-   <img width="715" height="729" alt="image" src="https://github.com/user-attachments/assets/5f38872d-b592-415e-931d-8b362bad98a4" />
+   <img width="559" height="642" alt="image" src="https://github.com/user-attachments/assets/c01a9454-3c58-47d5-8943-92dac46bb48d" />
 * Initialiser un projet Spring Boot avec les dépendances nécessaires
 * Faire une architecture Controller -> Business -> Repository avec des DTO dans les contrôleurs, toute la logique et l'accès aux repositories dans le Business
 * Faire des tests fonctionnels pour quelques endpoints
